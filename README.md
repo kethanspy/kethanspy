@@ -1,18 +1,16 @@
-You got it! Here's a **perfected, recruiter-friendly, eye-catching LinkedIn "About" section** with a professional tone, strategically placed emojis, **bold highlights**, and clean readability. It showcases your **skills**, **achievements**, and **personality**, while staying highly engaging for both **humans** and **recruiters** scanning profiles.
-
 ---
 
 ## 🚀 About Me
 
 Hi, I’m **Kethan Sai Pavan Yeddla** — a results-driven **Backend Software Developer** with over **3 years of professional experience** designing and deploying **secure, scalable, and high-performance systems** across enterprise and startup ecosystems.
 
-With deep expertise in **Java**, **Spring Boot**, **microservices**, and **cloud-native development (AWS, Docker, Kubernetes)**, I specialize in building systems that don’t just work — they **scale, self-heal, and perform under pressure**.
+With deep expertise in **Java**,**Python**, **Spring Boot**, **microservices**, and **cloud-native development (AWS, Docker, Kubernetes)**, I specialize in building systems that don’t just work — they **scale, self-heal, and perform under pressure**.
 
 ---
 
 ## 🧠 Core Strengths
 
-- 🔧 **Backend Engineering**: Java, Spring Boot, Node.js, Kafka, REST APIs  
+- 🔧 **Backend Engineering**: Java, Python, Spring Boot, Node.js, Kafka, REST APIs  
 - 🧪 **DevOps & CI/CD**: GitHub Actions, Jenkins, Docker, Kubernetes, Prometheus, CloudWatch  
 - ☁️ **Cloud Platforms**: AWS (EC2, S3, Lambda), Azure, GCP  
 - 🧰 **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB  
@@ -43,7 +41,7 @@ With deep expertise in **Java**, **Spring Boot**, **microservices**, and **cloud
 - Advanced Design Patterns (LinkedIn)  
 - Microsoft + LinkedIn Software Development  
 - NASA International Space Apps Challenge 🌌  
-- Duke Web Developer Certificate  
+- Duke University Web Developer Certificate  
 
 ---
 
@@ -62,4 +60,3 @@ If you're looking for a developer who combines **deep technical expertise** with
 
 ---
 
-Would you like this in a **Markdown version for GitHub** or stylized for a personal **portfolio site** too?
