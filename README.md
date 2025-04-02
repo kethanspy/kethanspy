@@ -1,32 +1,65 @@
-# Hi there 👋, I'm Kethan Sai Pavan Yeddla
+You got it! Here's a **perfected, recruiter-friendly, eye-catching LinkedIn "About" section** with a professional tone, strategically placed emojis, **bold highlights**, and clean readability. It showcases your **skills**, **achievements**, and **personality**, while staying highly engaging for both **humans** and **recruiters** scanning profiles.
 
-🚀 **Aspiring Software Developer** | Passionate about Backend Development, Machine Learning, and AI
+---
 
-I'm a dedicated software developer with a Master's degree in Information Technology from Arizona State University. My technical expertise spans multiple languages and frameworks, specializing in Python, Node.js, React, GraphQL, and deep learning frameworks. I have hands-on experience building scalable web applications and AI-driven solutions.
+## 🚀 About Me
 
-🔧 **Technologies & Tools:**
-- **Languages:** Python, JavaScript, TypeScript, Java, C#
-- **Databases:** MongoDB, SQLite, PostgreSQL, MySQL
-- **Frameworks/Libraries:** Node.js, Express.js, React, Angular, Apollo Client, TensorFlow, PyTorch
-- **Web Technologies:** HTML5, CSS3, GraphQL, REST APIs
-- **Cloud Platforms:** AWS (S3, EC2, Lambda), Azure
-- **Tools:** Git, GitHub, Docker, Postman, VS Code, Android Studio, Jira
-- **Development Skills:** Agile Methodologies, CI/CD, SDLC, Microservices, Unit Testing
+Hi, I’m **Kethan Sai Pavan Yeddla** — a results-driven **Backend Software Developer** with over **3 years of professional experience** designing and deploying **secure, scalable, and high-performance systems** across enterprise and startup ecosystems.
 
-💼 **Experience:**
-- **Software Developer at Nagarro:** Developed and maintained full-stack applications using ASP.NET WebAPI, Angular, and SQLite.
-- **Graduate Research Assistant at Arizona State University:** Built AI-driven applications, including gaze estimation models and sales forecasting systems using Python, ML frameworks, and deep learning.
+With deep expertise in **Java**, **Spring Boot**, **microservices**, and **cloud-native development (AWS, Docker, Kubernetes)**, I specialize in building systems that don’t just work — they **scale, self-heal, and perform under pressure**.
 
-🌐 **Projects:**
-- **ChitChatApp:** A real-time messaging application using Node.js, GraphQL, and Apollo Client for instant messaging with intuitive UI/UX.
-- **SAFET-Y Mobile App:** Real-time threat detection mobile application using YOLO, SwiftUI, and TensorFlow Lite.
-- **Crime Hotspot Prediction:** Implemented predictive modeling using LSTM and OpenCV to analyze and forecast crime hotspots.
-- **Automated Security Robot:** Built an autonomous security robot, published at ICICSE 2020, using embedded systems and ML.
+---
 
-📫 **Let's Connect:**
-- **GitHub:** [kethanspy](https://github.com/kethanspy)
-- **LinkedIn:** [Kethan Sai Pavan Yeddla](https://linkedin.com/in/kethan-sai-pavan-yeddla)
+## 🧠 Core Strengths
 
-I'm always eager to collaborate on exciting projects and open to exploring new technologies!
+- 🔧 **Backend Engineering**: Java, Spring Boot, Node.js, Kafka, REST APIs  
+- 🧪 **DevOps & CI/CD**: GitHub Actions, Jenkins, Docker, Kubernetes, Prometheus, CloudWatch  
+- ☁️ **Cloud Platforms**: AWS (EC2, S3, Lambda), Azure, GCP  
+- 🧰 **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB  
+- 🧠 **Team Dynamics**: Agile/Scrum, clean architecture, peer mentoring, fast-paced delivery  
 
+💡 **I love simplifying complex systems, designing fault-tolerant architectures, and writing code that teams love to maintain.**
 
+---
+
+## 🏆 Key Achievements
+
+- ⚙️ **Reduced deployment time by 40%** at ASU by leading CI/CD migration to GitHub Actions + Docker  
+- 📊 **Processed over 2M+ records/month** in a high-velocity **real-time billing simulator** built using Spring Boot + Kafka  
+- 🎥 Built a **real-time video analytics platform** on AWS Lambda, maintaining strict SLAs using Prometheus + Grafana  
+- 📱 Created **SAFET-Y**, a YOLO-powered mobile app using **SwiftUI + TensorFlow Lite** for real-time threat detection  
+- 🚗 Designed and published an **AI-based Drowsiness Detection Robot** with OpenCV (ICICSE Conference)  
+- 🌐 Developed 10+ responsive UIs during a **UI/UX internship at Adobe Creative Technology Academy**  
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **M.S. in Software Engineering** — *Arizona State University* (May 2024)  
+🎓 **B.Tech in CSE** — *JNTU Hyderabad*  
+
+📜 **Certifications**:  
+- Oracle Certified Java Developer 🧾  
+- Advanced Design Patterns (LinkedIn)  
+- Microsoft + LinkedIn Software Development  
+- NASA International Space Apps Challenge 🌌  
+- Duke Web Developer Certificate  
+
+---
+
+## 🌟 Let's Connect
+
+I’m actively exploring **backend software engineering roles** where I can:  
+✔️ Own systems end-to-end  
+✔️ Contribute to mission-critical applications  
+✔️ Collaborate with world-class teams  
+✔️ Build software that truly matters  
+
+If you're looking for a developer who combines **deep technical expertise** with **real-world delivery**, I’d love to connect.
+
+📫 **Email**: [kethan.yeddla@gmail.com](mailto:kethan.yeddla@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/kethanspy](https://www.linkedin.com/in/kethanspy)
+
+---
+
+Would you like this in a **Markdown version for GitHub** or stylized for a personal **portfolio site** too?
